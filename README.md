@@ -1,2 +1,2 @@
-# 2SunnyLand
-Projeto para a aula da FIAP School
+Bernardo 
+Samir
